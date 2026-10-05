@@ -1,13 +1,26 @@
 # Custom High-Frequency Domestic China Domains
-# Telephony OneKey Auth / SDKs
+
+# Telephony OneKey Auth / SDKs (China Mobile & China Telecom)
 cmpassport.com
+id6.me
+
 # Tencent GuangDianTong Ad & Image CDN
 gdtimg.com
-# Alibaba Ad Exchange & Telemetry
+
+# Alibaba Ad Exchange, Risk Control, APM & Infrastructure
 tanx.com
 mmstat.com
-# Mobile Push & Analytics SDKs
+aliapp.org
+effirst.com
+
+# Mobile Push & Analytics SDKs (ByteDance, GeTui, TalkingData, Huawei)
 talkingdata.com
 gepush.com
 igexin.com
 snssdk.com
+easytomessage.com
+
+# Ad Mediation & Attribution SDKs (TopOn, Appier)
+anythinktech.com
+appiersig.com
+adsappier.com
