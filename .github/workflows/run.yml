@@ -239,29 +239,6 @@ jobs:
           go run ./ geosite -f ../community/geosite-lite.dat -o ../sing-rule/geo-lite/geosite -t sing-box
           go run ./ geoip -f ../geoip-lite.dat -o ../sing-rule/geo-lite/geoip -t sing-box
 
-      - name: Inject Alibaba Anycast Domestic CIDRs into sing cn rulesets
-        run: |
-          go install -v -trimpath -ldflags="-s -w -buildid=" github.com/sagernet/sing-box/cmd/sing-box@latest
-          python3 -c "
-          import json
-          cidrs = ['155.102.0.0/16', '163.181.0.0/16', '139.95.0.0/16', '47.88.0.0/16', '47.89.0.0/16', '47.90.0.0/16', '47.91.0.0/16', '47.246.0.0/16', '198.11.128.0/18', '205.204.96.0/19', '43.109.0.0/16']
-          for p in ['sing-rule/geo/geoip/cn.json', 'sing-rule/geo-lite/geoip/cn.json']:
-              try:
-                  with open(p, 'r') as f:
-                      d = json.load(f)
-                  rules = d.get('rules', [{}])[0].get('ip_cidr', [])
-                  for c in cidrs:
-                      if c not in rules:
-                          rules.append(c)
-                  with open(p, 'w') as f:
-                      json.dump(d, f, indent=2)
-                  print('Successfully injected Alibaba Anycast CIDRs into', p)
-              except Exception as e:
-                  print('Error updating', p, e)
-          "
-          sing-box rule-set compile sing-rule/geo/geoip/cn.json -o sing-rule/geo/geoip/cn.srs
-          sing-box rule-set compile sing-rule/geo-lite/geoip/cn.json -o sing-rule/geo-lite/geoip/cn.srs
-
       - name: Convert geo to meta-rule-set
         env:
           NO_SKIP: true
@@ -280,25 +257,12 @@ jobs:
           go run ./ geosite -f ../community/geosite-lite.dat -o ../meta-rule/geo-lite/geosite
           go run ./ geoip -f ../geoip-lite.dat -o ../meta-rule/geo-lite/geoip
 
-      - name: Inject Alibaba Anycast Domestic CIDRs into meta cn rulesets
+      - name: Inject custom China Anycast CIDRs
         run: |
-          python3 -c "
-          cidrs = ['155.102.0.0/16', '163.181.0.0/16', '139.95.0.0/16', '47.88.0.0/16', '47.89.0.0/16', '47.90.0.0/16', '47.91.0.0/16', '47.246.0.0/16', '198.11.128.0/18', '205.204.96.0/19', '43.109.0.0/16']
-          for p in ['meta-rule/geo/geoip/cn.yaml', 'meta-rule/geo-lite/geoip/cn.yaml', 'meta-rule/geo/geoip/cn.list', 'meta-rule/geo-lite/geoip/cn.list']:
-              try:
-                  with open(p, 'r') as f:
-                      lines = f.readlines()
-                  with open(p, 'a') as f:
-                      for c in cidrs:
-                          if not any(c in l for l in lines):
-                              if p.endswith('.yaml'):
-                                  f.write(f'    - {c}\n')
-                              else:
-                                  f.write(f'{c}\n')
-                  print('Successfully injected Alibaba Anycast CIDRs into', p)
-              except Exception as e:
-                  print('Error updating', p, e)
-          "
+          go install -v -trimpath -ldflags="-s -w -buildid=" github.com/sagernet/sing-box/cmd/sing-box@latest || true
+          if [ -f "custom-rules/inject-cidrs.py" ]; then
+            python3 custom-rules/inject-cidrs.py
+          fi
 
       - name: Convert asn
         env:
