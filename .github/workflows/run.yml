@@ -244,7 +244,7 @@ jobs:
           go install -v -trimpath -ldflags="-s -w -buildid=" github.com/sagernet/sing-box/cmd/sing-box@latest
           python3 -c "
           import json
-          cidrs = ['155.102.0.0/16', '163.181.0.0/16', '47.88.0.0/16', '47.89.0.0/16', '47.90.0.0/16', '47.91.0.0/16', '47.246.0.0/16']
+          cidrs = ['155.102.0.0/16', '163.181.0.0/16', '139.95.0.0/16', '47.88.0.0/16', '47.89.0.0/16', '47.90.0.0/16', '47.91.0.0/16', '47.246.0.0/16', '198.11.128.0/18', '205.204.96.0/19', '43.109.0.0/16']
           for p in ['sing-rule/geo/geoip/cn.json', 'sing-rule/geo-lite/geoip/cn.json']:
               try:
                   with open(p, 'r') as f:
@@ -283,7 +283,7 @@ jobs:
       - name: Inject Alibaba Anycast Domestic CIDRs into meta cn rulesets
         run: |
           python3 -c "
-          cidrs = ['155.102.0.0/16', '163.181.0.0/16', '47.88.0.0/16', '47.89.0.0/16', '47.90.0.0/16', '47.91.0.0/16', '47.246.0.0/16']
+          cidrs = ['155.102.0.0/16', '163.181.0.0/16', '139.95.0.0/16', '47.88.0.0/16', '47.89.0.0/16', '47.90.0.0/16', '47.91.0.0/16', '47.246.0.0/16', '198.11.128.0/18', '205.204.96.0/19', '43.109.0.0/16']
           for p in ['meta-rule/geo/geoip/cn.yaml', 'meta-rule/geo-lite/geoip/cn.yaml', 'meta-rule/geo/geoip/cn.list', 'meta-rule/geo-lite/geoip/cn.list']:
               try:
                   with open(p, 'r') as f:
