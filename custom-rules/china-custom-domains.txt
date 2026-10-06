@@ -12,6 +12,8 @@ tanx.com
 mmstat.com
 aliapp.org
 effirst.com
+alibabadns.com
+alipaydns.com
 
 # Mobile Push & Analytics SDKs (ByteDance, GeTui, TalkingData, Huawei)
 talkingdata.com
@@ -20,6 +22,16 @@ igexin.com
 snssdk.com
 ctobsnssdk.com
 easytomessage.com
+
+# ByteDance / Volcengine CDN & Authoritative DNS
+cdnbuild.net
+bytedns1.com
+
+# Sina Weibo Edge CDN
+sinaedge.com
+
+# Tencent Multi-CDN Dispatch
+autodnsv1.com
 
 # Ad Mediation & Attribution SDKs (TopOn, Appier)
 anythinktech.com
