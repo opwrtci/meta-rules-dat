@@ -26,7 +26,7 @@ jobs:
       - name: Fetch and Merge Upstream
         id: sync_upstream
         run: |
-          git remote add upstream https://github.com/MetaCubeX/meta-rules-dat.git || true
+          git remote add upstream https://github.com/MetaCubeX/meta-rules-dat.git 2>/dev/null || true
           git fetch upstream master
 
           UPSTREAM_HEAD=$(git rev-parse upstream/master)
@@ -38,21 +38,36 @@ jobs:
             exit 0
           fi
 
-          echo "Upstream has new commits. Merging with -X theirs strategy..."
+          echo "Upstream has new commits ($UPSTREAM_HEAD). Merging with -X theirs strategy..."
           # Merge upstream favoring upstream changes on any conflicts
-          git merge -X theirs upstream/master --no-edit -m "chore(sync): 自动合并上游 MetaCubeX/meta-rules-dat 更新" || true
+          git merge -X theirs upstream/master --no-edit -m "chore(sync): 自动合并上游 MetaCubeX/meta-rules-dat 更新"
 
           # Guarantee our custom hook step exists in run.yml
           python3 custom-rules/ensure-workflow-step.py
 
-          git add -A
-          if git diff --staged --quiet; then
-            echo "No staged changes after merge."
-          else
-            git commit -m "chore: 保持自定义阿里Anycast直连注入钩子" || true
-            git push origin master
-            echo "has_changes=true" >> $GITHUB_OUTPUT
+          # Also guarantee custom domestic domains are retained in resouces/direct.txt if overwritten by upstream
+          if [ -f "custom-rules/china-custom-domains.txt" ] && [ -f "resouces/direct.txt" ]; then
+            while read -r dom; do
+              [ -z "$dom" ] && continue
+              case "$dom" in
+                \#*) continue ;;
+              esac
+              if ! grep -Fxq "$dom" resouces/direct.txt; then
+                echo "$dom" >> resouces/direct.txt
+              fi
+            done < custom-rules/china-custom-domains.txt
           fi
+
+          git add -A
+          if ! git diff --staged --quiet; then
+            echo "Committing preserved custom rules hooks..."
+            git commit -m "chore: 保持自定义阿里Anycast与直连域名注入钩子" || true
+          fi
+
+          # Always push to origin master when upstream had new commits merged
+          echo "Pushing merged upstream changes to origin master..."
+          git push origin master
+          echo "has_changes=true" >> $GITHUB_OUTPUT
 
       - name: Trigger Build Workflow
         if: steps.sync_upstream.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
