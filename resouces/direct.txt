@@ -20,3 +20,4 @@ cdnbuild.net
 bytedns1.com
 sinaedge.com
 autodnsv1.com
+bytedns3.com
