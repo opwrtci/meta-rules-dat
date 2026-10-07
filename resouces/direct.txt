@@ -22,3 +22,7 @@ sinaedge.com
 autodnsv1.com
 bytedns3.com
 ccb.com
+wddcdn.com
+myfenghla.com
+cdngslb.com
+lgdtimg.com
