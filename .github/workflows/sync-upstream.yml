@@ -81,3 +81,15 @@ jobs:
             -H "X-GitHub-Api-Version: 2022-11-28" \
             https://api.github.com/repos/${{ github.repository }}/actions/workflows/run.yml/dispatches \
             -d '{"ref":"master"}' || true
+
+      - name: Keepalive Workflows
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Keeping scheduled workflows active via GitHub API..."
+          for wf in sync-upstream.yml run.yml delete.yml; do
+            echo "Re-enabling/touching workflow: $wf"
+            gh api -X PUT "repos/${{ github.repository }}/actions/workflows/$wf/enable" || true
+          done
+
