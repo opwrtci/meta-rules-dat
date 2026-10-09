@@ -1,0 +1,9 @@
+# Custom Proxy Domains synchronized via capctl & AI
+supertop.co
+hk.chinamobile.com
+meta.ai
+facebook.com
+bidr.io
+asterdex.mobi
+muse.ai
+asterdex.tv

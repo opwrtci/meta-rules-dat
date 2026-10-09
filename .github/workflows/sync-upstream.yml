@@ -58,10 +58,23 @@ jobs:
             done < custom-rules/china-custom-domains.txt
           fi
 
+          # Also guarantee custom proxy domains are retained in resouces/proxy.txt if overwritten by upstream
+          if [ -f "custom-rules/proxy-custom-domains.txt" ] && [ -f "resouces/proxy.txt" ]; then
+            while read -r dom; do
+              [ -z "$dom" ] && continue
+              case "$dom" in
+                \#*) continue ;;
+              esac
+              if ! grep -Fxq "$dom" resouces/proxy.txt; then
+                echo "$dom" >> resouces/proxy.txt
+              fi
+            done < custom-rules/proxy-custom-domains.txt
+          fi
+
           git add -A
           if ! git diff --staged --quiet; then
             echo "Committing preserved custom rules hooks..."
-            git commit -m "chore: 保持自定义阿里Anycast与直连域名注入钩子" || true
+            git commit -m "chore: 保持自定义阿里Anycast与直连/代理域名注入钩子" || true
           fi
 
           # Always push to origin master when upstream had new commits merged
@@ -87,6 +100,25 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          # 1. 检查距最近一次提交的时间，超过 40 天时自动生成心跳 Commit 并推送，彻底重置 60 天闲置倒计时
+          LAST_COMMIT_TS=$(git log -1 --format=%ct)
+          NOW_TS=$(date +%s)
+          DAYS_DIFF=$(( (NOW_TS - LAST_COMMIT_TS) / 86400 ))
+          echo "距上次提交已过去: $DAYS_DIFF 天"
+          if [ $DAYS_DIFF -ge 40 ]; then
+            echo "闲置超过 40 天，触发心跳保活 Commit 永久重置 60 天计时器..."
+            mkdir -p .github
+            date -u +"%Y-%m-%dT%H:%M:%SZ" > .github/.keepalive
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add .github/.keepalive
+            git commit -m "chore(ci): keepalive heartbeat to reset 60-day inactivity timer [skip ci]" || true
+            git push origin master || true
+          else
+            echo "活跃状态正常（低于 40 天），无需生成心跳 Commit。"
+          fi
+
+          # 2. 每天调用 GitHub 官方 API 刷新/重置所有定时工作流的活跃状态
           echo "Keeping scheduled workflows active via GitHub API..."
           for wf in sync-upstream.yml run.yml delete.yml; do
             echo "Re-enabling/touching workflow: $wf"
