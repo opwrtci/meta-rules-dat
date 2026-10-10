@@ -44,3 +44,5 @@ myfenghua.com
 cdngslb.com
 ugdtimg.com
 mgslb.com
+alipaylog.com
+mpaas.com
