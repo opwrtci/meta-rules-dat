@@ -21,3 +21,4 @@ googleads.g.doubleclick.net
 android.googleapis.com
 firebaseremoteconfig.googleapis.com
 geller-pa.googleapis.com
+generativelanguage.googleapis.com
