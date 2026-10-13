@@ -242,3 +242,7 @@ odin-distrib-cn.allawntech.com
 nppswitch.cup.com.cn.wscvip.cn
 pathcf.prod.xtracloud.cn
 qcc.qualcomm.cn
+ak-cname.micloud.xiaomi.net
+newloc.map.n.shifen.com
+applog.ucdns.uc.cn
+cname.micloud.xiaomi.net
