@@ -35,3 +35,5 @@ play-fe.googleapis.com
 e-0014.e-msedge.net
 default.exp-tas.com
 mobile-gtalk.l.google.com
+hk.pool.ntp.org
+time-ios.g.aaplimg.com
