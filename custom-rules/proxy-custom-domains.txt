@@ -42,3 +42,6 @@ orzonera.yingt.fun
 firebaselogging.googleapis.com
 yumao.puata.info
 update.googleapis.com
+a.fxltsbl.com
+alt2-mtalk.google.com
+alt8.mobile-gtalk4.l.google.com
