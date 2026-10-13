@@ -40,3 +40,5 @@ hk.pool.ntp.org
 time-ios.g.aaplimg.com
 orzonera.yingt.fun
 firebaselogging.googleapis.com
+yumao.puata.info
+update.googleapis.com
