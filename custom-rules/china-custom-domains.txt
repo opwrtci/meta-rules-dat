@@ -252,3 +252,4 @@ opex-service-cn.allawntech.com
 ty-dldir1v6.sched.dma-dk.tdnsv5.com
 featureinfo-service-cn.allawntech.com
 ins-5m6qrjf9.ias.tencent-cloud.net
+rus-service-cn.allawntech.com
