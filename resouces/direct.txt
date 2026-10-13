@@ -238,3 +238,4 @@ ins-5m6qrjf9.ias.tencent-cloud.net
 rus-service-cn.allawntech.com
 slb-p2p.vcloud.ks-live.com
 china.bing123.com
+cname.moegirl.net.cn
