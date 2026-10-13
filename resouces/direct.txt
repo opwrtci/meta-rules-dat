@@ -244,3 +244,12 @@ www.googleapis.cn
 www.bing.com
 air.tb.ele.me.w.alikunlun.com
 smarthome.iot.heytapmobi.com
+ins-6o886196.ias.tencent-cloud.net
+ins-xvhsdhs7.ias.tencent-cloud.net
+p.qpic.cn
+rsimg.sched.sma-dk.tdnsstic1.cn
+adx.ads.heytapmobi.com
+gtracenep.admaster.cc
+ins-w34olsuu.ias.tencent-cloud.net
+developers.google.cn
+inews.gtimg.com.sched.legopic2-dk.tdnsv6.com
