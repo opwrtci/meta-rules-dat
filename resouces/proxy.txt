@@ -32,3 +32,6 @@ star-mini.c10r.facebook.com
 b-www.facebook.com
 alt5.mobile-gtalk.l.google.com
 play-fe.googleapis.com
+e-0014.e-msedge.net
+default.exp-tas.com
+mobile-gtalk.l.google.com

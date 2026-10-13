@@ -86,3 +86,4 @@ files.alicdn.com.danuoyi.tbcache.com
 all.faas.ele.me.w.kunlunar.com
 zconfig.alibabausercontent.com.w.cdngslb.com
 obus-cn.dc.heytapmobi.com
+datagw-edge.alipay.com.w.cdngslb.com
