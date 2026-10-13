@@ -256,3 +256,8 @@ rus-service-cn.allawntech.com
 slb-p2p.vcloud.ks-live.com
 china.bing123.com
 cname.moegirl.net.cn
+www.google.cn
+www.googleapis.cn
+www.bing.com
+air.tb.ele.me.w.alikunlun.com
+smarthome.iot.heytapmobi.com
