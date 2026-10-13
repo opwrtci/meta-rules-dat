@@ -49,3 +49,6 @@ edge-metaclaw-http.c10r.facebook.com
 9436503.sched.legopic2-dk.tdnsv6.com
 remoteprovisioning.googleapis.com
 searchnotifications-pa.googleapis.com
+content-autofill.googleapis.com
+ohttp-relay-safebrowsing-android.google.fastly-edge.com
+safebrowsing.googleapis.com
