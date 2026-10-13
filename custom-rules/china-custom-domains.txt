@@ -246,3 +246,8 @@ ak-cname.micloud.xiaomi.net
 newloc.map.n.shifen.com
 applog.ucdns.uc.cn
 cname.micloud.xiaomi.net
+find.api.micloud.xiaomi.net
+sau-server-cn.allawntech.com
+opex-service-cn.allawntech.com
+ty-dldir1v6.sched.dma-dk.tdnsv5.com
+featureinfo-service-cn.allawntech.com
