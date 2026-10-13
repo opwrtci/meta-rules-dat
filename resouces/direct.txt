@@ -359,3 +359,4 @@ hound.migu.cn
 vc-mirror-v6-lf.ndcpp.com
 v.icbc.com.cn.wscdns.com
 m.ccb.com
+newds-api-cn-01.allawntech.com
