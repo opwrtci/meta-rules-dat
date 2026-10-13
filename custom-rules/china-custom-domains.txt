@@ -216,3 +216,6 @@ ins-0xt2bis9.ias.tencent-cloud.net
 kdxceol8jtlwrbdejv6vsrstsnxxyarh.yundunwaf3.com
 datasec-kmsex-cn.heytapmobi.com
 cloudconf-app-cn.heytapmobi.com
+gslb-cn.cdo.heytapmobi.com
+i.browser.heytapmobi.com
+api-cn.cdo.heytapmobi.com
