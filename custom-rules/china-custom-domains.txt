@@ -223,3 +223,4 @@ sms.ads.heytapmobi.com
 cl-data.ads.heytapmobi.com
 virusinfo-sec.heytapmobi.com
 appconf-ocs.heytapdownload.com.ctdns.cn
+pantanal-sys-cn.allawntech.com
