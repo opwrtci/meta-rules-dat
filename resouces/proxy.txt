@@ -257,3 +257,5 @@ p3-developer-sign.bytemaimg.com.queniuso.com
 new-vc-mirror-hl-eip-2.ndcpp.com
 lf3-infras.bytetos.com.queniuuf.com
 play-lh.googleusercontent.com
+androidpay-users-pa.googleapis.com
+proactivebackend-pa.googleapis.com
