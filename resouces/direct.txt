@@ -360,3 +360,6 @@ vc-mirror-v6-lf.ndcpp.com
 v.icbc.com.cn.wscdns.com
 m.ccb.com
 newds-api-cn-01.allawntech.com
+logsdata.cxkfwn.com
+dmnj01.xnq.r.10086.cn
+config.rcs.mnc002.mcc460.pub.3gppnetwork.org
