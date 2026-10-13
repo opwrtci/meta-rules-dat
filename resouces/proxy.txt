@@ -52,3 +52,4 @@ content-autofill.googleapis.com
 ohttp-relay-safebrowsing-android.google.fastly-edge.com
 safebrowsing.googleapis.com
 63ce5fd2be92dcdf.icloudv6.com
+mozilla.cloudflare-dns.com
