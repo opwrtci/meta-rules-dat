@@ -45,3 +45,5 @@ update.googleapis.com
 a.fxltsbl.com
 alt2-mtalk.google.com
 alt8.mobile-gtalk4.l.google.com
+edge-metaclaw-http.c10r.facebook.com
+9436503.sched.legopic2-dk.tdnsv6.com

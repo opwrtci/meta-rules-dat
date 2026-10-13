@@ -171,3 +171,6 @@ vip-chinanet.ynuf.aliapp.org
 push-ads-cn.heytapmobi.com
 www.a.shifen.com
 ins-su28bvwf.ias.tencent-cloud.net
+ins-qtqx8id9.ias.tencent-cloud.net
+i.youlishipin.com
+ins-c478wqot.ias.tencent-cloud.net
