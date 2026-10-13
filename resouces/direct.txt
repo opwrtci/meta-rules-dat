@@ -280,3 +280,13 @@ nr-op.elemecdn.com.m.alikunlun.com
 ypv6.fmb.aicdn5.com
 www.gstatic.cn
 shp.qpic.cn
+tel.m.v6.shub.sandai.net
+imagecdn.gzjyh.com.w.kunlunaq.com
+tbm-auth.alicdn.com.danuoyi.tbcache.com
+xiaomi-v46.b.v05.volcgtm.com
+core.api.mijia.tech
+rp.m.v6.shub.sandai.net
+pr.m.hub.sandai.net
+www.tencent.com.eo.dnse5.com
+bailingual-assets.alipay.com.queniuak.com
+api-cn.theme.heytapmobi.com
