@@ -22,3 +22,14 @@ android.googleapis.com
 firebaseremoteconfig.googleapis.com
 geller-pa.googleapis.com
 generativelanguage.googleapis.com
+encrypted-tbn0.gstatic.com
+hatch-api.meta.ai
+graph.facebook.com
+app-measurement.com
+time.google.com
+discover-pa.googleapis.com
+i.ytimg.com
+star-mini.c10r.facebook.com
+b-www.facebook.com
+alt5.mobile-gtalk.l.google.com
+play-fe.googleapis.com

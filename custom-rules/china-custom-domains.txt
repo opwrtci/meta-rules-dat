@@ -94,3 +94,11 @@ ins-diu1q33u.ias.tencent-cloud.net
 mdn.alipayobjects.com.danuoyi.tbcache.com
 members.3322.net
 cip.cc
+tb.ele.me.w.alikunlun.com
+appdownload.alicdn.com.danuoyi.tbcache.com
+heic.alicdn.com.w.cdngslb.com
+tls-impaas-cname.dingtalk.com
+shadow.elemecdn.com.w.kunlunle.com
+files.alicdn.com.danuoyi.tbcache.com
+all.faas.ele.me.w.kunlunar.com
+zconfig.alibabausercontent.com.w.cdngslb.com
