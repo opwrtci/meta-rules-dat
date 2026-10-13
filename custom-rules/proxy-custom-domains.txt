@@ -239,3 +239,17 @@ wallet.google.com
 ce.adv.lijit.com
 adserver-part-794439753.us-east-1.elb.amazonaws.com
 twittervideodownloadercom.eu-adx-admixer.rtb-stack.com
+analytics.twitter.com
+prod.rewardsplatform.microsoft.com
+lh3.googleusercontent.com
+cm-mx.advolve.io
+locationhistory-pa.googleapis.com
+alt6.mobile-gtalk4.l.google.com
+sync.mathtag.com
+beacons.gcp.gvt2.com
+bh.contextweb.com
+sync.targeting.unrulymedia.com
+scripts.clarity.ms
+connectid.analytics.yahoo.com
+sync.1rx.io
+cms.quantserve.com
