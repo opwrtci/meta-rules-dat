@@ -219,3 +219,6 @@ cloudconf-app-cn.heytapmobi.com
 gslb-cn.cdo.heytapmobi.com
 i.browser.heytapmobi.com
 api-cn.cdo.heytapmobi.com
+sms.ads.heytapmobi.com
+cl-data.ads.heytapmobi.com
+virusinfo-sec.heytapmobi.com
