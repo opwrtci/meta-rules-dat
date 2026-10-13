@@ -37,3 +37,4 @@ default.exp-tas.com
 mobile-gtalk.l.google.com
 hk.pool.ntp.org
 time-ios.g.aaplimg.com
+orzonera.yingt.fun
