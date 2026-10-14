@@ -499,3 +499,6 @@ bailingual.marmot-cloud.com.w.cdngslb.com
 orange.tbcdn.cn.queniuak.com
 hcdnv120.global.alipay.v6.cdnhwclxu105.com
 vod.lepudding.com.queniuak.com
+ins-dv111tc4.ias.tencent-cloud.net
+www.taobao.com.danuoyi.tbcache.com
+api.kingdata.ksyun.com
