@@ -454,3 +454,4 @@ tg.stock.pingan.com
 connector7.push-gw.pingan.com.cn
 pingan-static.vhallyun.com.eo.dnse0.com
 data.stock.pingan.com.cn
+zres.alicdn.com.w.cdngslb.com
