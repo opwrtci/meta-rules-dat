@@ -499,3 +499,5 @@ datk.anythinktech.com
 cn-api.anythinktech.com
 market.m.taobao.com.danuoyi.tbcache.com
 262uxnli.sched.d2.tdnsdp1.cn
+wpk-hb3c-alb.ude.effirst.com
+csearch.cloudvideocdn.taobao.com.w.cdngslb.com
