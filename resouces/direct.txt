@@ -444,3 +444,4 @@ m5.d.meituan.net.eo.dnse1.com
 osg-static.sgcc.com.cn.ctdns.cn
 sipnj05.xnq.r.10086.cn
 traffic-monitor-cn.allawntech.com
+i.bot.heytapmobi.com
