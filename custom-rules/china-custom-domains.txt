@@ -463,3 +463,11 @@ sipnj05.xnq.r.10086.cn
 traffic-monitor-cn.allawntech.com
 i.bot.heytapmobi.com
 store01.heytapimage.com.cmcloud4.cloudlvs.com
+ins-64mmtfil.ias.tencent-cloud.net
+any.cdn-go.cn.sched.legopic2-dk.tdnsv6.com
+framework.cdn-go.cn.sched.legopic2-dk.tdnsv6.com
+iv6.gtimg.cn.sched.legopic2-dk.tdnsv6.com
+imgcache.gtimg.cn.sched.legopic1-dk.tdnsv6.com
+ok.gtimg.cn.legodlied1-dk.sched.dcloudstc.com
+06a75fda3ee9a0baa595dee317f9a045e7ab44c42a7ba8a1.dlied1.cdntips.net
+ins-2n7ixenz.ias.tencent-cloud.net
