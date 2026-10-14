@@ -575,3 +575,4 @@ m2.ccb.com
 resolver.msg.xiaomi.net.mgslb.com
 mmbiz.qpic.cn.sched.legopic1-dk.tdnsv6.com
 fourier-videoclip-cn.allawntech.com
+media.lizdj010.com
