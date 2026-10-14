@@ -260,3 +260,4 @@ lf3-infras.bytetos.com.queniuuf.com
 play-lh.googleusercontent.com
 androidpay-users-pa.googleapis.com
 proactivebackend-pa.googleapis.com
+alt7.mobile-gtalk.l.google.com
