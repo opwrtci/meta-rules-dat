@@ -364,3 +364,9 @@ logsdata.cxkfwn.com
 dmnj01.xnq.r.10086.cn
 config.rcs.mnc002.mcc460.pub.3gppnetwork.org
 sz-mrdl-all.gtm.s.csyrtcs.com
+virusinfo-cloudscan-cn.heytapmobi.com
+cnbj1-mi-fds-public.mi-fds.com
+miot-spec.org
+tel-num-cn.heytapmobi.com
+k2-dy-ml.gslb.ksyuncdn.com
+smart-sms-cn.heytapimage.com.cmcloud4.cloudlvs.com

@@ -261,3 +261,6 @@ play-lh.googleusercontent.com
 androidpay-users-pa.googleapis.com
 proactivebackend-pa.googleapis.com
 alt7.mobile-gtalk.l.google.com
+www.tm.a.prd.aadg.trafficmanager.net
+nlb-uo231cms7bji7g2doh.ap-southeast-1.nlb.aliyuncsslbintl.com
+l7-online-stable-z3-v6.s.dsa.cdnbuild.net
