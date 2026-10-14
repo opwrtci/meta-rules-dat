@@ -496,3 +496,6 @@ tbexpand.alicdn.com.danuoyi.tbcache.com
 h5.m.goofish.com.w.cdngslb.com
 d.alicdn.com.w.cdngslb.com
 bailingual.marmot-cloud.com.w.cdngslb.com
+orange.tbcdn.cn.queniuak.com
+hcdnv120.global.alipay.v6.cdnhwclxu105.com
+vod.lepudding.com.queniuak.com
