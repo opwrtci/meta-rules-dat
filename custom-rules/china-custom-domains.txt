@@ -502,3 +502,17 @@ vod.lepudding.com.queniuak.com
 ins-dv111tc4.ias.tencent-cloud.net
 www.taobao.com.danuoyi.tbcache.com
 api.kingdata.ksyun.com
+outfliggys.m.taobao.com.w.alikunlun.com
+cn.alicdn.com.danuoyi.tbcache.com
+applog-perf.uc.cn
+webcast-open.douyin.com.queniuyk.com
+mssdk.volces.com.queniusz.com
+cdn.fliggy.com.w.cdngslb.com
+icdn.fliggy.com.queniuak.com
+mssdk-bu.bytedance.com.queniuum.com
+huodong.taobao.com.danuoyi.tbcache.com
+pigeon.alicdn.com.danuoyi.tbcache.com
+datk.anythinktech.com
+cn-api.anythinktech.com
+market.m.taobao.com.danuoyi.tbcache.com
+262uxnli.sched.d2.tdnsdp1.cn
