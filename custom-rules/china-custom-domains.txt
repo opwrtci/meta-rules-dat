@@ -593,3 +593,5 @@ resolver.msg.xiaomi.net.mgslb.com
 mmbiz.qpic.cn.sched.legopic1-dk.tdnsv6.com
 fourier-videoclip-cn.allawntech.com
 media.lizdj010.com
+ins-ht7b45p6.ias.tencent-cloud.net
+static.googleadsserving.cn
