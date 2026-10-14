@@ -263,3 +263,13 @@ alt7.mobile-gtalk.l.google.com
 www.tm.a.prd.aadg.trafficmanager.net
 nlb-uo231cms7bji7g2doh.ap-southeast-1.nlb.aliyuncsslbintl.com
 l7-online-stable-z3-v6.s.dsa.cdnbuild.net
+b1.nel.goog
+l7-online-self-max.s.dsa.cdnbuild.net
+e2c66.gcp.gvt2.com
+fonts.googleapis.com
+m.youtube.com
+encrypted-vtbn0.gstatic.com
+yt3.ggpht.com
+e2c9.gcp.gvt2.com
+mon.zijieapi.com.queniusz.com
+lf-cdn-tos.bytescm.com.queniuuf.com
