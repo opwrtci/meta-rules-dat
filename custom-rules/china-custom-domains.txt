@@ -455,3 +455,6 @@ connector7.push-gw.pingan.com.cn
 pingan-static.vhallyun.com.eo.dnse0.com
 data.stock.pingan.com.cn
 zres.alicdn.com.w.cdngslb.com
+dxlvs.meituan.com
+m5.d.meituan.net.eo.dnse1.com
+9786585.sched.legopic2.tdnsv6.com
