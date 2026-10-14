@@ -352,3 +352,7 @@ samphire.gshdw.cyou
 app-download.fliggy.com.queniuak.com
 toblog.ctobsnssdk.com.queniuum.com
 log.snssdk.com.queniuyk.com
+speechs3proto2-pa.googleapis.com
+stun.voipstunt.com
+footprints-pa.googleapis.com
+stun3.l.google.com
