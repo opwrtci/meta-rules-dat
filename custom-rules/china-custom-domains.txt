@@ -446,3 +446,5 @@ downv6.qq.com.legodlied1-dk.sched.dcloudstc.com
 c4cbbbd049c9dcd5b713950e65430f3d.rdt.tfogc.com
 connector8.push-gw.pingan.com.cn
 multimedia.nt.qq.com.cn
+14206b1e00d3747b0abddf547c968b63.rdt.tfogc.com
+static-res.qq.com.legodlied1-dk.sched.dcloudstc.com
