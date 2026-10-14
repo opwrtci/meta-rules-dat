@@ -356,3 +356,4 @@ speechs3proto2-pa.googleapis.com
 stun.voipstunt.com
 footprints-pa.googleapis.com
 stun3.l.google.com
+playstoregatewayadapter-pa.googleapis.com
