@@ -339,3 +339,5 @@ rr5---sn-vgqsknde.gvt1.com
 rr3---sn-vgqskndl.gvt1.com
 rr2---sn-vgqsrnz7.gvt1.com
 rr2---sn-vgqsrnlk.gvt1.com
+myphonenumbers-pa.googleapis.com
+ulp1p-pa.googleapis.com
