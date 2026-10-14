@@ -389,3 +389,5 @@ rr3---sn-ojvgq5-55.gvt1.com
 rr5---sn-vgqsrnek.gvt1.com
 rr5---sn-vgqsrnz7.gvt1.com
 rr2---sn-vgqsrnd7.gvt1.com
+api-stream.twitter.com.cdn.cloudflare.net
+api-stream.twitter.com
