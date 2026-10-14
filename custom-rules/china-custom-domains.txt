@@ -471,3 +471,4 @@ imgcache.gtimg.cn.sched.legopic1-dk.tdnsv6.com
 ok.gtimg.cn.legodlied1-dk.sched.dcloudstc.com
 06a75fda3ee9a0baa595dee317f9a045e7ab44c42a7ba8a1.dlied1.cdntips.net
 ins-2n7ixenz.ias.tencent-cloud.net
+opencdnmtpicv6.syscdn.hainanidc.cn
