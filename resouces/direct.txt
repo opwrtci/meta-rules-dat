@@ -424,3 +424,8 @@ pool-aa-sse.pingan.com.cn.cdngtm.com
 a-padn-access.pingan.com.cn
 elis-smp-ubas-new.lifeapp.pingan.com.cn
 dwtracking.jk.cn
+downv6.qq.com.legodlied1-dk.sched.dcloudstc.com
+137945f834029a0773638af45defed6d.rdt.tfogc.com
+c4cbbbd049c9dcd5b713950e65430f3d.rdt.tfogc.com
+connector8.push-gw.pingan.com.cn
+multimedia.nt.qq.com.cn
