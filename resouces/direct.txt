@@ -569,3 +569,8 @@ ins-27zv76rr.ias.tencent-cloud.net
 iisp.mbs.boc.cn
 smsp.mbs.boc.cn
 sdkconfig.igtm.tlivesdk.com
+zttvh-6.t.bsgslb.cn
+opush-permission-cn.heytapimage.com.ctlcdn.cn
+m2.ccb.com
+resolver.msg.xiaomi.net.mgslb.com
+mmbiz.qpic.cn.sched.legopic1-dk.tdnsv6.com
