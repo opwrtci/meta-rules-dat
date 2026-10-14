@@ -278,3 +278,5 @@ safe.usergrowth.com.cn.queniuiq.com
 alt3.mobile-gtalk.l.google.com
 ytimg.l.google.com
 img.youtube.com
+restrictedapps-pa.googleapis.com
+reach-pa.googleapis.com
