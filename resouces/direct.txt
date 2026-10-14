@@ -431,3 +431,9 @@ connector8.push-gw.pingan.com.cn
 multimedia.nt.qq.com.cn
 14206b1e00d3747b0abddf547c968b63.rdt.tfogc.com
 static-res.qq.com.legodlied1-dk.sched.dcloudstc.com
+m.stock.pingan.com
+login.stock.pingan.com
+tg.stock.pingan.com
+connector7.push-gw.pingan.com.cn
+pingan-static.vhallyun.com.eo.dnse0.com
+data.stock.pingan.com.cn
