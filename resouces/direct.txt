@@ -370,3 +370,6 @@ miot-spec.org
 tel-num-cn.heytapmobi.com
 k2-dy-ml.gslb.ksyuncdn.com
 smart-sms-cn.heytapimage.com.cmcloud4.cloudlvs.com
+sidebar-apps-cn.allawntech.com
+ckipmbiz.sched.sma-dk.tdnsstic1.cn
+app-sec-cn.heytapmobi.com
