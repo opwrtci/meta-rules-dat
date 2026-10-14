@@ -405,3 +405,15 @@ ty-staticcos.sched.dma-dk.tdnsdl1.cn
 k8s-tkiomicr-receive-086a539eb3-1894959409.cn-north-1.elb.amazonaws.com.cn
 ps.cname2.getui.com
 gweb.dl.bankcomm.com.ctgcdn.com
+abtestvm.bytedance.com.queniurc.com
+line1-log.biligame.net.w.cdngslb.com
+ty-upos.sched.dma-dk.tdnsdl1.cn
+config.cmpassport.com
+track.bankcomm.com
+creditcardapp.bankcomm.com
+psbiv4-6.cname.getui.com
+p3-pc-sign.douyinpic.com.queniuso.com
+hcdnv.zjtd01.v6.c.cdnhwc2.com
+xxbg.snssdk.com.queniurc.com
+cm-10-174.getui.com
+bk.n.shifen.com
