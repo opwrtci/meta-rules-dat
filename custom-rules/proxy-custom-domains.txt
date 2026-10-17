@@ -776,3 +776,4 @@ googleapis.com
 google.com
 gstatic.com
 googleusercontent.com
+gemini.google.com
