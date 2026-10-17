@@ -777,3 +777,12 @@ google.com
 gstatic.com
 googleusercontent.com
 gemini.google.com
+firebaseapp.com
+ags.trafficmanager.net
+synthid.com
+southeastasia.cloudapp.azure.com
+westus.cloudapp.azure.com
+withgoogle.com
+aadg.trafficmanager.net
+japaneast.cloudapp.azure.com
+windows.net
