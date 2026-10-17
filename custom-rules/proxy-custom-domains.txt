@@ -774,3 +774,4 @@ choice-apis-prod-2120274730.eu-central-1.elb.amazonaws.com
 lonelycatgames.com
 googleapis.com
 google.com
+gstatic.com
