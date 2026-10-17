@@ -773,3 +773,6 @@ ov1o.com
 akadns.net
 loopme.me
 adform.net
+doubleverify.com
+sitescout.com
+doubleclick.net
