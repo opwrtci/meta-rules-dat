@@ -881,3 +881,4 @@ cloud-dahua.com
 myqcloud.com
 anyscdn.com
 right.com.cn
+cdnhwc2.com
