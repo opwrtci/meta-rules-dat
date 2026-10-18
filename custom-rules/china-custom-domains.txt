@@ -888,3 +888,4 @@ solseed.cn
 wuchucloud.cn
 miaozhen.com
 jpush.io
+initvv.com
