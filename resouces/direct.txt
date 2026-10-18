@@ -874,3 +874,8 @@ zt-dlf3-all.bytegslb.com
 zttvh-6.t.bsgslb.cn
 zx-vod-gzb-a.gtm.s.glb4.com
 zyinlianyx.v.bsgslb.cn
+aliyuncsslb.com
+volces.com
+imou.com
+cloud-dahua.com
+myqcloud.com
