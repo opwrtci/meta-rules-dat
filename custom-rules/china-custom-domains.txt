@@ -882,3 +882,6 @@ myqcloud.com
 anyscdn.com
 right.com.cn
 cdnhwc2.com
+biliapi.com
+bilivideo.com
+solseed.cn
