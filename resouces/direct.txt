@@ -889,3 +889,5 @@ wuchucloud.cn
 miaozhen.com
 jpush.io
 initvv.com
+ctecdn.cn
+tdnslive1.cn
