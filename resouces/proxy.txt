@@ -980,3 +980,7 @@ us-east-1.elasticbeanstalk.com
 url-encode-decode.com
 veryreport.com
 wsglb0.com
+keepandroidopen.org
+cdninstagram.com
+arstechnica.com
+fsf.org
