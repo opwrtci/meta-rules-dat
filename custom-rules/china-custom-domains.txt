@@ -912,3 +912,10 @@ mobileservice.cn
 jiasule.org
 zdmimg.com
 10jqka.com.cn
+huaweicloud.com
+cdnhwcbqs106.com
+qchannel03.cn
+sinajs.cn
+huaweicloudwaf.com
+cdnhwcaip122.cn
+xuanim.com

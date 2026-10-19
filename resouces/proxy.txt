@@ -974,3 +974,9 @@ ytimg.com
 wikimedia.org
 cdnhwctnm107.com
 wswebpic.com
+smadex.com
+bootstrapcdn.com
+us-east-1.elasticbeanstalk.com
+url-encode-decode.com
+veryreport.com
+wsglb0.com
