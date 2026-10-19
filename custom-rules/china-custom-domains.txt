@@ -920,3 +920,5 @@ huaweicloudwaf.com
 cdnhwcaip122.cn
 xuanim.com
 huabokeji.com
+cloudbaseapp.cn
+iyoudui.com
