@@ -984,3 +984,4 @@ keepandroidopen.org
 cdninstagram.com
 arstechnica.com
 fsf.org
+swiftkey.com
