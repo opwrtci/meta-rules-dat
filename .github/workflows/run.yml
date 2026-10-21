@@ -8,6 +8,9 @@ on:
       - master
     paths-ignore:
       - "**/README.md"
+      - ".github/.keepalive"
+      - "custom-rules/*.txt"
+      - "resouces/*.txt"
 jobs:
   build:
     runs-on: ubuntu-latest

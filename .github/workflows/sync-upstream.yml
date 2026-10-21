@@ -40,7 +40,7 @@ jobs:
 
           echo "Upstream has new commits ($UPSTREAM_HEAD). Merging with -X theirs strategy..."
           # Merge upstream favoring upstream changes on any conflicts
-          git merge -X theirs upstream/master --no-edit -m "chore(sync): 自动合并上游 MetaCubeX/meta-rules-dat 更新"
+          git merge -X theirs upstream/master --no-edit -m "chore(sync): 自动合并上游 MetaCubeX/meta-rules-dat 更新 [skip ci]"
 
           # Guarantee our custom hook step exists in run.yml
           python3 custom-rules/ensure-workflow-step.py
@@ -74,7 +74,7 @@ jobs:
           git add -A
           if ! git diff --staged --quiet; then
             echo "Committing preserved custom rules hooks..."
-            git commit -m "chore: 保持自定义阿里Anycast与直连/代理域名注入钩子" || true
+            git commit -m "chore: 保持自定义阿里Anycast与直连/代理域名注入钩子 [skip ci]" || true
           fi
 
           # Always push to origin master when upstream had new commits merged
