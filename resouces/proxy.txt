@@ -997,3 +997,6 @@ stripchat.webcam
 stripchat.mov
 stripchatgirls.com
 mosspf.com
+stripe.com
+onetrust.com
+cfapi.workers.dev
