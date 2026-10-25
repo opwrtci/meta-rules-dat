@@ -1001,3 +1001,5 @@ stripe.com
 onetrust.com
 cfapi.workers.dev
 queniusy.com
+pureniox.com
+queniuyk.com
