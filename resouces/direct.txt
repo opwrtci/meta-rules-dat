@@ -932,3 +932,5 @@ alikunlun.net
 kunlunca.com
 jifenfu.net
 ksyunv5.com
+cloudjscdn.cn
+bsgslb.com
