@@ -963,3 +963,5 @@ gccdn.net
 jcloudedge.com
 apdcdn.com
 avlyun.com
+qpic.cn
+icbc.com.cn
