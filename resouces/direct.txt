@@ -983,3 +983,6 @@ qlogo.cn
 cmbchina.cn
 queniuaa.cn
 miui.com
+ecitic.com
+jdcloudedge.com
+jcloud-cdn.com
