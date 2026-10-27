@@ -1028,3 +1028,5 @@ stripchats.me
 sc7.com
 stripcash.com
 februaent.com
+clevertap-prod.com
+amazon-adsystem.com
