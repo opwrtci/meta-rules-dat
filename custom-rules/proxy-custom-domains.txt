@@ -1032,3 +1032,4 @@ clevertap-prod.com
 amazon-adsystem.com
 japanwest.cloudapp.azure.com
 westeurope.cloudapp.azure.com
+queniukw.com
