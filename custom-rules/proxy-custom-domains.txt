@@ -1030,3 +1030,4 @@ stripcash.com
 februaent.com
 clevertap-prod.com
 amazon-adsystem.com
+japanwest.cloudapp.azure.com
