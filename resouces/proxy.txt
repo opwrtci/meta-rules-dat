@@ -1033,3 +1033,4 @@ amazon-adsystem.com
 japanwest.cloudapp.azure.com
 westeurope.cloudapp.azure.com
 queniukw.com
+uksouth.cloudapp.azure.com
