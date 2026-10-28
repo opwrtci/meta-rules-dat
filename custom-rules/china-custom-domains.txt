@@ -986,3 +986,7 @@ miui.com
 ecitic.com
 jdcloudedge.com
 jcloud-cdn.com
+citicbank.cn
+zxcard.cn
+jiashule.com
+jiguang.cn
