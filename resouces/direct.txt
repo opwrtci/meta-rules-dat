@@ -990,3 +990,4 @@ citicbank.cn
 zxcard.cn
 jiashule.com
 jiguang.cn
+bdydns.com
