@@ -1013,3 +1013,4 @@ githubassets.com
 githubusercontent.com
 akamai.net
 googlevideo.com
+zelpio.com
