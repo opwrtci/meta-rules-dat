@@ -1079,3 +1079,6 @@ tencentclb.com
 sm0.fun
 jingyougz.com
 alicloudapi.com
+3.cn
+jcloudlb.com
+jcloudstatic.com
