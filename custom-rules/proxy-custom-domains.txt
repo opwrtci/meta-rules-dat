@@ -1021,6 +1021,5 @@ hs-scripts.com
 hs-analytics.net
 hubspot.com
 kiro.dev
-ldhy.click
 recaptcha.net
 upload.app
