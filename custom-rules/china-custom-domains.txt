@@ -1075,3 +1075,4 @@ jj.cn
 babigame.cn
 jjmatch.cn
 cdn20.com
+tencentclb.com
