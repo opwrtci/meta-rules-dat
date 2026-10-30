@@ -1077,3 +1077,5 @@ jjmatch.cn
 cdn20.com
 tencentclb.com
 sm0.fun
+jingyougz.com
+alicloudapi.com
