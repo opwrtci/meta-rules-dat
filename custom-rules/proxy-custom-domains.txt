@@ -1515,3 +1515,5 @@ ams-pixel-match.fly.dev
 dv.tech
 servicesadmedia.com
 youtube.com
+smartytech.io
+adserv-us.com
