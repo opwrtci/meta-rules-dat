@@ -30,7 +30,6 @@ a-mx.com
 a-mx.net
 a-us-west.rfihub.com.akadns.net
 a.c.appier.net
-a.fxltsbl.com
 a.nel.cloudflare.com
 a.rfihub.com
 a.tribalfusion.com
