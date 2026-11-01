@@ -1099,3 +1099,5 @@ kuaishou.com
 tomatogames.com
 sm.cn
 mountaintoys.cn
+z1cdn.com
+auraex.cn
