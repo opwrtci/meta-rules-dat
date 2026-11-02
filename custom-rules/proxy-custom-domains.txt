@@ -1531,3 +1531,9 @@ ngotiem.space
 tinyurl.com
 nolatec.org
 almalinux.org
+browser-intake-us5-datadoghq.com
+intercomcdn.com
+intercom.io
+oaistatic.com
+hexagon-cdn.com
+anthropic.com
