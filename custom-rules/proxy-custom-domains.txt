@@ -1537,3 +1537,7 @@ intercom.io
 oaistatic.com
 hexagon-cdn.com
 anthropic.com
+zoiper.com
+minisipserver.com
+voxgratia.org
+akadns99.net
