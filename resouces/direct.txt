@@ -1156,3 +1156,17 @@ so.com
 intlscdn.com
 60190.com
 emsign.com
+microsoft.com
+apple.com
+qhupdate.com
+aliyunwaf4.com
+kimi.com
+fr0528.art
+tenpay.com
+initaq.com
+qihucdn.cn
+fabiaoqing.com
+xueqiu.com
+bjmxy.net
+ooopic.com
+aliyunga0019.com
