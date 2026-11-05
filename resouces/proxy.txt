@@ -98,7 +98,6 @@ android.googleapis.com
 androidpay-users-pa.googleapis.com
 androidplatformbackuprestore-pa.googleapis.com
 antigravity.google
-aocde.com
 api-drive.mypikpak.com
 api-stream.twitter.com
 api-stream.twitter.com.cdn.cloudflare.net
