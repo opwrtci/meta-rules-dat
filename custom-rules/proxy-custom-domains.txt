@@ -1615,3 +1615,4 @@ pttweb.cc
 kraken.com
 yandex.ru
 mopix.cc
+rixtelecom.se
