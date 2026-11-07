@@ -1197,3 +1197,4 @@ yjs-cdn.com
 outin.cn
 csdn.net
 nexusedgeio.com
+pureniox.cn
