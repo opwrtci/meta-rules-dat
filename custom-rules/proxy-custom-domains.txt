@@ -1737,3 +1737,5 @@ baoyu.io
 github-store.org
 ua.news
 zaobao.com.sg
+tbap.top
+idayer.com
