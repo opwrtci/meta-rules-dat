@@ -514,7 +514,6 @@ ipv4-ipv6-phase4.web.vip.meituan.com
 is.snssdk.com.queniukw.com
 isps-api.pingan.com.cn
 iss.ccb.com
-itigerup.com
 iv6.gtimg.cn.sched.legopic2-dk.tdnsv6.com
 iwabi.cn
 iwisdom.apps.coloros.com
