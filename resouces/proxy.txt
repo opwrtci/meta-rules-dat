@@ -1765,3 +1765,5 @@ anibt.net
 dmbus.cc
 acgxunuo.xyz
 acgxunuo.one
+cloudflare-dns.com
+revenuecat.com
