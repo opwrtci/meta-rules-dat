@@ -1819,3 +1819,10 @@ p-smith.com
 yimg.jp
 momentary.link
 litnxx.com
+gravatar.com
+media-amazon.com
+namiayaya.blog
+mathjax.org
+sakura.ne.jp
+ssl-images-amazon.com
+moshimo.com
