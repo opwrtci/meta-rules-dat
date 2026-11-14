@@ -581,7 +581,6 @@ ovhnextmillmedia.com
 ovscdns.net
 pagead2.googlesyndication.com
 partwithner.com
-passip.xyz
 passwordsleakcheck-pa.googleapis.com
 pay-users-pa.googleapis.com
 paypalobjects.com
@@ -1868,3 +1867,4 @@ geospy.ai
 mapbox.com
 openfreemap.org
 picarta.ai
+mintegral.com
