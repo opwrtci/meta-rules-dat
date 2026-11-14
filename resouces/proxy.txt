@@ -1868,3 +1868,7 @@ mapbox.com
 openfreemap.org
 picarta.ai
 mintegral.com
+gnome.org
+twc.trafficmanager.net
+xpaywalletcdn-prod.azureedge.net
+helpshift.com
