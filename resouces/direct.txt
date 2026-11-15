@@ -898,7 +898,6 @@ tianming.jsbchina.cn
 tianshu.gtimg.cn.legodlied1-dk.sched.dcloudstc.com
 tic.eiop.icbc.com.cn.wscdns.com
 tigrdw.com
-tigrwd.com
 tliveplay.com
 tlivesdk.com
 tlivesource.com
@@ -1249,3 +1248,7 @@ tuchong.com
 passip.xyz
 microfun.cn
 game9012.com
+ufileos.com
+cdnhwczxh101.com
+bjxuejing.cn
+ywdier.com

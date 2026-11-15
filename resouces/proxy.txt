@@ -1872,3 +1872,4 @@ gnome.org
 twc.trafficmanager.net
 xpaywalletcdn-prod.azureedge.net
 helpshift.com
+tigrwd.com
