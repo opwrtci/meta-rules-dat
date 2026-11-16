@@ -542,7 +542,6 @@ n.clarity.ms
 na-ice.360yield.com
 namebrain.org
 nav-edge.smartscreen.microsoft.com
-ncsyco.com
 nelvoroq.com
 nerdbot.com
 nervousstroke.com
@@ -1903,3 +1902,18 @@ hybrid.ai
 cloudad.icu
 pmbmonetize.live
 zenmxapps.com
+naver.com
+aniview.com
+media6degrees.com
+onaudience.com
+acuityplatform.com
+turn.com
+adipolo.live
+bidfuse.com
+ndash.net
+semasio.net
+mxptint.net
+andbeyond.media
+intentiq.com
+trustedstack.com
+mgid.com
