@@ -1264,3 +1264,12 @@ ximalaya.com
 sh-tencentclb.cloud
 hnyytech.com
 getui.net
+kwaionline.com
+tongjiniao.com
+xiaoac.com
+kuaishouzt.com
+foshanplus.com
+omnifly.cn
+sfacg.com
+tencentcloudapi.com
+openspeech.cn
