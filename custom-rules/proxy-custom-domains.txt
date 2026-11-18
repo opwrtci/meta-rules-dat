@@ -1927,3 +1927,8 @@ avsov.com
 parklogic.com
 88api.ai
 linux.do
+southcentralus.cloudapp.azure.com
+cunzhangblog.com
+appsflyer.com
+cosmic-eastus2-ns-00d36985e57d.trafficmanager.net
+google.com.hk
