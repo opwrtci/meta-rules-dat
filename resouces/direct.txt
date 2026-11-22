@@ -1289,3 +1289,9 @@ bankcomm.com
 qunar.com
 vnet.cn
 jomoxc.com
+cdnudns.com
+mhgui.com
+manhuagui.com
+googleapis.cn
+gstatic.cn
+rainyun.com
