@@ -1964,3 +1964,5 @@ rsms.me
 astrbot.app
 umami.is
 trendshift.io
+scalar.com
+hcaptcha.com
