@@ -1295,3 +1295,5 @@ manhuagui.com
 googleapis.cn
 gstatic.cn
 rainyun.com
+tencent.cn
+futustatic.com
