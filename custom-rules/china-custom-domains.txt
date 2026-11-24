@@ -1297,3 +1297,5 @@ gstatic.cn
 rainyun.com
 tencent.cn
 futustatic.com
+nju.edu.cn
+taobao.net
