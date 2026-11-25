@@ -1299,3 +1299,4 @@ tencent.cn
 futustatic.com
 nju.edu.cn
 taobao.net
+example.com
