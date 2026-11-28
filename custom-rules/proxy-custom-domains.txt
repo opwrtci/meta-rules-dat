@@ -2095,3 +2095,5 @@ rapidssl.com
 edge.run
 cdntrex.com
 cachefly.net
+broadriverhospital.com
+google.co.jp
